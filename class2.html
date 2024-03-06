@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="https://unpkg.com/vue@next"></script>
+  </head>
+  <body>
+    <div id="app">
+      {{ text }}
+      {{ name }}
+    </div>
+
+    <script>
+      Vue.createApp({
+        // data 函式
+        data: function () {
+          // 一定是用 return
+          return {
+            text: "卡斯伯好帥",
+            name: "小明",
+            num: 0,
+          };
+        },
+        // methods 方法
+        methods: {},
+        // mounted 函式
+        mounted: function () {},
+      }).mount("#app");
+    </script>
+  </body>
+</html>
