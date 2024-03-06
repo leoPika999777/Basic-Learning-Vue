@@ -1,29 +1,12 @@
 # vue-training
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+自學vue <br>
+class2:基礎vue<br>
+class3:基礎vue<br>
+class4:操作標籤屬性<br>
+class5:流程控制，判斷式與迴圈<br>
+class6:事件屬性<br>
+class7:響應式狀態綁定<br>
+class8:輸入文字與狀態綁定<br>
+class9:表單輸入元件<br>
+class10:<br>
+class11:<br>
